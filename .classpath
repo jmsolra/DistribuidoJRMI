@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Cliente/src"/>
+	<classpathentry kind="src" path="common/src"/>
+	<classpathentry kind="src" path="Distribuidor/src"/>
+	<classpathentry kind="src" path="Regulador/src"/>
+	<classpathentry kind="lib" path="JAR/cliente.jar"/>
+	<classpathentry kind="lib" path="JAR/distribuidor.jar"/>
+	<classpathentry kind="lib" path="JAR/regulador.jar"/>
+	<classpathentry kind="output" path="Cliente/bin"/>
+</classpath>
